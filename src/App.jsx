@@ -17,7 +17,7 @@ function App() {
 
         <footer className="py-12 border-t border-white/10">
           <div className="mx-auto max-w-7xl px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
-            <p className="text-sm text-blue-200/70">© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+            <p className="text-sm text-blue-200/70">© {new Date().getFullYear()} ISHITA MALHOTRA. All rights reserved.</p>
             <a href="/test" className="text-sm hover:text-white transition">System status</a>
           </div>
         </footer>

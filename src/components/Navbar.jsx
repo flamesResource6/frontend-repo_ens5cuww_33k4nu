@@ -17,7 +17,7 @@ export default function Navbar() {
           <div className="flex items-center justify-between px-4 py-3 md:px-6">
             <button onClick={() => scrollTo('hero')} className="flex items-center gap-2">
               <div className="h-8 w-8 rounded-lg bg-gradient-to-br from-blue-500 to-cyan-400 shadow-lg" />
-              <span className="text-white font-semibold tracking-tight">My Portfolio</span>
+              <span className="text-white font-semibold tracking-tight">ISHITA MALHOTRA</span>
             </button>
 
             <nav className="hidden md:flex items-center gap-8 text-sm text-blue-100/80">

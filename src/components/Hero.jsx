@@ -15,6 +15,7 @@ export default function Hero() {
             Available for freelance work
           </div>
           <h1 className="mt-5 text-4xl sm:text-6xl font-bold tracking-tight text-white">
+            Hi, I'm <span className="bg-clip-text text-transparent bg-gradient-to-r from-cyan-300 to-blue-400">ISHITA MALHOTRA</span><br className="hidden sm:block" />
             Creative Developer building modern, playful experiences
           </h1>
           <p className="mt-4 text-blue-100/90 text-lg max-w-xl">
